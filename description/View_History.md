@@ -13,7 +13,7 @@ View History
 
 2.View Difference
 --------
-*   view current change: `git diff` <br>
-*   view the commit change: `git diff "commit"` <br>
+*   view current commitment change: `git diff` <br>
+*   view the commitment change: `git diff "commit"` <br>
 *   view differences between two commitments : `git diff "commit1" "commit2"` <br>
    
