@@ -8,18 +8,5 @@ Start a Simple Project
 
 2.Commit file to repository
 --------
-<table>
-    <tbody>
-        <tr>
-        	<td rowspan=4>
-            	123
-        	</td>
-        </tr>
-        <tr>
-        	<td rowspan=4>
-            	456
-        	</td>
-        </tr>
-    </tbody>
-</table>
+*   *   `git init`
    
