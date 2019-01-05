@@ -15,6 +15,16 @@ Branch
 &ensp; &ensp; &ensp; delete a merged branch: `git branch -d "branch_name"` <br>
 &ensp; &ensp; &ensp; delete a unmerged branch: `git branch -D "branch_name"` <br>
 &ensp; &ensp; &ensp; delete a remote branch: `git push origin :"branch_name"` <br>
-*   Branch rollback <br>
-&ensp; &ensp; &ensp; delete a merged branch: `git branch -d "branch_name"` <br>
+   
+
+2.Branch Rollback and Switch
+--------
+*   Reset <br>
+reset will delete the commits
+&ensp; &ensp; &ensp; clean the staged file: `git reset HEAD` <br>
+&ensp; &ensp; &ensp; clean the committed file: `git reset HEAD^` <br>
+&ensp; &ensp; &ensp; clean the committed file and reset working tree(your file): `git reset HEAD^ --hard` <br>
+*   Checkout <br>
+checkout just move HEAD to another pointer, but you must create new branch name on original commit otherwise you will not reach the original commit again.
+&ensp; &ensp; &ensp; clean the staged file: `git reset HEAD` <br>
    
