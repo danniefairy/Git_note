@@ -21,7 +21,7 @@ Branch is just like a pointer to record the position of node. <br>
 
 2.Branch Rollback and Switch
 --------
-`HEAD^^^` and `HEAD~3` mean the position which is three committed node away from HEAD.
+`HEAD^^^` and `HEAD~3` mean the position which is three committed nodes away from HEAD.
 *   Reset: reset will delete the commits <br>
 &ensp; &ensp; &ensp; clean the staged file: `git reset HEAD` <br>
 &ensp; &ensp; &ensp; clean the committed file: `git reset HEAD^` <br>
