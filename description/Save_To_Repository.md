@@ -8,6 +8,7 @@ Save To Repository
 
 2.Commit file to repository
 --------
+Committed record just like a node.
 *   Add file to tracked and staged status <br>
 &ensp; &ensp; &ensp; add all files and directories in repository: `git add .` <br>
 &ensp; &ensp; &ensp; add perticular files or directories in repository: `git add "files or directories name"` <br>
