@@ -3,8 +3,6 @@ Branch
 
 1.About Branch
 --------
-Branch is just like a pointer to record the position of node. <br>
-`master` is the local latest branch and `origin` is the remote latest branch. <br>
 *   HEAD <br>
 &ensp; &ensp; &ensp; HEAD is a pointer pointing at the current committed node, and we can check its position by `cat .git/HEAD` <br>
 *   Search for branch <br>
@@ -18,6 +16,8 @@ Branch is just like a pointer to record the position of node. <br>
 &ensp; &ensp; &ensp; delete a merged branch: `git branch -d "branch_name"` <br>
 &ensp; &ensp; &ensp; delete a unmerged branch: `git branch -D "branch_name"` <br>
 &ensp; &ensp; &ensp; delete a remote branch: `git push origin :"branch_name"` <br>
+:warning:	Branch is just like a pointer to record the position of node. <br>
+:warning:	`master` is the local latest branch and `origin` is the remote latest branch. <br>
    
 
 2.Branch Rollback and Switch
