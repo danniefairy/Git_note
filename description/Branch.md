@@ -44,5 +44,19 @@ Branch is just like a pointer to record the position of node. <br>
 &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; >>>>>>>new-branch (delete this line) <br>
 &ensp; &ensp; &ensp; after modifying the conflicted file, you can `add` and `commit` to finish the merge. <br>
 &ensp; &ensp; &ensp; to be convinent, you can use `git mergetool` edit conflicted file and `commit` to finish the merge. <br>
-c
+   
+
+3.Rebase
+--------
+*   Rebase <br>
+&ensp; &ensp; &ensp; `git checkout master` first and run: `git merge "branch_name"` <br>
+*   Conflict <br>
+&ensp; &ensp; &ensp; use `git status` find conflicted file and modify it, for example: <br>
+&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; <<<<<<<HEAD (delete this line) <br>
+&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; master branch content (to be modified) <br>
+&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; ===================== (delete this line) <br>
+&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; other branch content (to be modified) <br>
+&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; >>>>>>>new-branch (delete this line) <br>
+&ensp; &ensp; &ensp; after modifying the conflicted file, you can `add` and `commit` to finish the merge. <br>
+&ensp; &ensp; &ensp; to be convinent, you can use `git mergetool` edit conflicted file and `commit` to finish the merge. <br>
    
