@@ -15,4 +15,7 @@ Branch
 &ensp; &ensp; &ensp; delete a merged branch: `git branch -d "branch_name"` <br>
 &ensp; &ensp; &ensp; delete a unmerged branch: `git branch -D "branch_name"` <br>
 &ensp; &ensp; &ensp; delete a remote branch: `git push origin :"branch_name"` <br>
+*   Branch rollback <br>
+&ensp; &ensp; &ensp; delete a merged branch: `git branch -d "branch_name"` <br>
+123123
    
