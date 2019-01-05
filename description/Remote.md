@@ -14,6 +14,7 @@ Remote
 *   remote to local repository <br>
 &ensp; &ensp; &ensp; clone repository: `git clone "url"` <br>
 &ensp; &ensp; &ensp; update local repository to remote repository: `git fetch "url" + "git rebase/merge "remote_name(origin)"` or `git pull "remote_name(origin)" "local_name"(master)` <br>
+&ensp; &ensp; &ensp; :warning:	if encountering the conflicted issue during pulling, solve the conflicted file first. <br>
 *   local to remote repository <br>
 &ensp; &ensp; &ensp; update to remote repository: `git push "remote_name(origin)" "local_name(master)"` <br>
    
