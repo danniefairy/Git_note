@@ -8,7 +8,7 @@ Configuration Setup
 
 2.Setup configuration
 --------
-***All configurations are in ~/.gitconfig***
+All configurations are in ***~/.gitconfig***
 *   setup user name: `git config --global user.name "your_username"`
 *   setup user email: `git config --global user.email "your_useremail"`
 *   setup editor: `git config --global core.editor vim`
