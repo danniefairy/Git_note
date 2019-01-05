@@ -17,5 +17,5 @@ Remote
 &ensp; &ensp; &ensp; :warning:	if encountering the conflicted issue during pulling, solve the conflicted file first. <br>
 *   local to remote repository <br>
 &ensp; &ensp; &ensp; update to remote repository: `git push "remote_name(origin)" "local_name(master)"` <br>
-123
+456
    
