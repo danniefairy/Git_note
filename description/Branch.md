@@ -23,7 +23,7 @@ Branch is just like a pointer to record the position of node. <br>
 --------
 `HEAD^^^` and `HEAD~3` mean the position which is three committed nodes away from HEAD.
 *   Reset: reset will delete the commits <br>
-&ensp; &ensp; &ensp; clean the staged file: `git reset HEAD` <br>
+&ensp; &ensp; &ensp; clean the staged(added) file: `git reset HEAD` <br>
 &ensp; &ensp; &ensp; clean the committed file: `git reset HEAD^` <br>
 &ensp; &ensp; &ensp; clean the committed file and reset working tree(your file): `git reset HEAD^ --hard` <br>
 *   Checkout: checkout just move HEAD to another pointer, but you must create new branch name on original commit otherwise you will not reach the original commit again. <br>
