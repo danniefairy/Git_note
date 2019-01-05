@@ -13,6 +13,7 @@ Branch is just like a pointer to record the position of node. <br>
 *   Create a new branch <br>
 &ensp; &ensp; &ensp; create new branch at HEAD: `git branch "new_branch_name"` <br>
 &ensp; &ensp; &ensp; create new branch at specific position: `git branch "new_branch_name" "hash_or_branch_name"` <br>
+&ensp; &ensp; &ensp; create new branch and move HEAD on it: `git checkpoint -b "new_branch_name"` <br>
 *   Delete a branch <br>
 &ensp; &ensp; &ensp; delete a merged branch: `git branch -d "branch_name"` <br>
 &ensp; &ensp; &ensp; delete a unmerged branch: `git branch -D "branch_name"` <br>
