@@ -4,7 +4,7 @@ Branch
 1.About Branch
 --------
 Branch is just like a pointer to record the position of node. <br>
-`master` is the latest local branch and `origin` is the latest remote branch. <br>
+`master` is the local latest branch and `origin` is the remote latest branch. <br>
 *   HEAD <br>
 &ensp; &ensp; &ensp; HEAD is a pointer pointing at the current committed node, and we can check its position by `cat .git/HEAD` <br>
 *   Search for branch <br>
