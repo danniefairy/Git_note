@@ -12,4 +12,8 @@ Start a Simple Project
 &ensp; &ensp; &ensp; add all files and directories in repository: `git add .` <br>
 &ensp; &ensp; &ensp; add perticular files or directories in repository: `git add "files or directories name"` <br>
 &ensp; &ensp; &ensp; add perticular part of line in file: `git add -p "files or directories name"` <br>
+*   ***Add file to tracked and staged status*** <br>
+&ensp; &ensp; &ensp; add all files and directories in repository: `git add .` <br>
+&ensp; &ensp; &ensp; add perticular files or directories in repository: `git add "files or directories name"` <br>
+&ensp; &ensp; &ensp; add perticular part of line in file: `git add -p "files or directories name"` <br>
    
