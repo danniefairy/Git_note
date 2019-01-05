@@ -19,3 +19,8 @@ Open Source Workflow
 &ensp; &ensp; &ensp; `git push origin "my_branch"` <br>
 *   press ***compare & pull request*** at your fork repository and ***create pull request*** <br>
    
+
+2.Workflow Diagram
+--------
+<img src="https://github.com/danniefairy/Git_note/blob/master/img/workflow.jpg" width = "500"/>
+   
