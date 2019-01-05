@@ -6,3 +6,4 @@ Git notes
 3. [Branch](https://github.com/danniefairy/Git_note/blob/master/description/Branch.md)
 4. [View History](https://github.com/danniefairy/Git_note/blob/master/description/View_History.md)
 5. [Remote](https://github.com/danniefairy/Git_note/blob/master/description/Remote.md)
+6. [Open Source Workflow](https://github.com/danniefairy/Git_note/blob/master/description/Open_Source_Workflow.md)
