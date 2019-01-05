@@ -8,9 +8,8 @@ Start a Simple Project
 
 2.Commit file to repository
 --------
-1.add file to waiting stage
----
-125646545ss2asds
-   
-
+<ul>
+<li>Bird</li>
+<li>Magic</li>
+</ul>
    
