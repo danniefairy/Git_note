@@ -63,4 +63,10 @@ Branch is just like a pointer to record the position of node. <br>
 
 4.Merge v.s. Rebase
 --------
-<img src="https://github.com/danniefairy/Git_note/blob/master/img/merge_rebase.jpg" width = "300"/>
+*   Merge <br>
+&ensp; &ensp; &ensp; Pro: will not delete commits <br>
+&ensp; &ensp; &ensp; Con: working tree is complicated <br>
+*   Rebase <br>
+&ensp; &ensp; &ensp; Pro: make working tree be clear <br>
+&ensp; &ensp; &ensp; Con: will delete commits <br>
+<img src="https://github.com/danniefairy/Git_note/blob/master/img/merge_rebase.jpg" width = "500"/>
