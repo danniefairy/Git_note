@@ -59,4 +59,5 @@ Branch is just like a pointer to record the position of node. <br>
 &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; >>>>>>>new-branch (delete this line) <br>
 &ensp; &ensp; &ensp; after modifying the conflicted file, you can `add` and `commit` to finish the merge. <br>
 &ensp; &ensp; &ensp; to be convinent, you can use `git mergetool` edit conflicted file and `commit` to finish the merge. <br>
+b
    
