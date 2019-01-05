@@ -70,4 +70,4 @@ Branch
 *   Rebase <br>
 &ensp; &ensp; &ensp; Pro: make working tree be clear <br>
 &ensp; &ensp; &ensp; Con: will delete commits <br>
-<img src="https://github.com/danniefairy/Git_note/blob/master/img/merge_rebase.jpg" width = "500"/>
+<img src="https://github.com/danniefairy/Git_note/blob/master/img/merge_rebase.jpg" width = "700"/>

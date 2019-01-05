@@ -22,5 +22,5 @@ Open Source Workflow
 
 2.Workflow Diagram
 --------
-<img src="https://github.com/danniefairy/Git_note/blob/master/img/workflow.jpg" width = "500"/>
+<img src="https://github.com/danniefairy/Git_note/blob/master/img/workflow.jpg" width = "700"/>
    
