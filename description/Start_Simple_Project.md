@@ -15,5 +15,4 @@ Start a Simple Project
 *   Commit file to repository <br>
 &ensp; &ensp; &ensp; commit and edit your description at ***COMMIT_EDITMSG*** : `git commit` <br>
 &ensp; &ensp; &ensp; commit and edit your description in one line : `git commit -m "your_msg"` <br>
-123213123
    
