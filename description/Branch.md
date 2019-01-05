@@ -22,7 +22,6 @@ Branch is just like a pointer to record the position of node. <br>
 
 2.Branch Rollback and Switch
 --------
-`HEAD^^^` and `HEAD~3` mean the position which is three committed nodes away from HEAD.
 *   Reset: reset will delete the commits <br>
 &ensp; &ensp; &ensp; clean the staged(added) file: `git reset HEAD` <br>
 &ensp; &ensp; &ensp; clean the committed file: `git reset HEAD^` <br>
@@ -30,6 +29,7 @@ Branch is just like a pointer to record the position of node. <br>
 *   Checkout: checkout just move HEAD to another pointer, but you must create new branch name on original commit otherwise you will not reach the original commit again. <br>
 &ensp; &ensp; &ensp; change HEAD to specific committed history: `git checkpoint "hash_or_branch_name"` <br>
 &ensp; &ensp; &ensp; create new branch and move HEAD on it: `git checkpoint -b "new_branch_name"` <br>
+:warning:	`HEAD^^^` and `HEAD~3` mean the position which is three committed nodes away from HEAD. <br>
    
 
 3.Merge
@@ -44,7 +44,7 @@ Branch is just like a pointer to record the position of node. <br>
 &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; other branch content (to be modified) <br>
 &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; >>>>>>>new-branch (delete this line) <br>
 &ensp; &ensp; &ensp; after modifying the conflicted file, you can `add` and `commit` to finish the merge. <br>
-&ensp; &ensp; &ensp; to be convinent, you can use `git mergetool` edit conflicted file and `commit` to finish the merge. <br>
+&ensp; &ensp; &ensp; :warning:	to be convinent, you can use `git mergetool` edit conflicted file and `commit` to finish the merge. <br>
    
 
 3.Rebase
@@ -59,7 +59,7 @@ Branch is just like a pointer to record the position of node. <br>
 &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; other branch content (to be modified) <br>
 &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; >>>>>>>new-branch (delete this line) <br>
 &ensp; &ensp; &ensp; after modifying the conflicted file, you can `add` and `commit` to finish the merge. <br>
-&ensp; &ensp; &ensp; to be convinent, you can use `git mergetool` edit conflicted file and `commit` to finish the merge. <br>
+&ensp; &ensp; &ensp; :warning:	to be convinent, you can use `git mergetool` edit conflicted file and `commit` to finish the merge. <br>
    
 
 4.Merge v.s. Rebase
