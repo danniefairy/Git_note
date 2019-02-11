@@ -11,4 +11,4 @@ Git notes
 &ensp; [source1](https://www.youtube.com/watch?v=qUfT-4bNtwY&index=5&list=PLlyOkSAh6TwcvJQ1UtvkSwhZWCaM_S07d)
 &ensp; [source2](https://www.youtube.com/watch?v=mENDYhfxH-o)
 &ensp; [source3](https://github.com/geeeeeeeeek/git-recipes/tree/8268e297f6efbf680c2b4104675c4b49dad29971)
-&ensp; [source4](https://hackernoon.com/git-merge-vs-rebase-whats-the-diff-76413c117333)dfsd
+&ensp; [source4](https://hackernoon.com/git-merge-vs-rebase-whats-the-diff-76413c117333)
