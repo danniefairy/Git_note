@@ -6,6 +6,7 @@ Remote
 *   show remote name: `git remote show"` <br>
 *   show remote repository detail: `git remote show "remote_name"` <br>
 *   set remote name: `git remote add "name" "url"` <br>
+*   update remote name: `git remote set-url "name" "url"` <br>
 *   rename remote name: `git remote rename "name1" "name2"` <br>
    
 
