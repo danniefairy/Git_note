@@ -5,9 +5,10 @@ Git notes
 2. [Save To Repository](https://github.com/danniefairy/Git_note/blob/master/description/Save_To_Repository.md)
 3. [Branch](https://github.com/danniefairy/Git_note/blob/master/description/Branch.md)
 4. [View History](https://github.com/danniefairy/Git_note/blob/master/description/View_History.md)
-5. [Remote](https://github.com/danniefairy/Git_note/blob/master/description/Remote.md)
-6. [Open Source Workflow](https://github.com/danniefairy/Git_note/blob/master/description/Open_Source_Workflow.md)
-7. Reference:
+5. [Stash](https://github.com/danniefairy/Git_note/blob/master/description/Stash.md)
+6. [Remote](https://github.com/danniefairy/Git_note/blob/master/description/Remote.md)
+7. [Open Source Workflow](https://github.com/danniefairy/Git_note/blob/master/description/Open_Source_Workflow.md)
+8. Reference:
 &ensp; [source1](https://www.youtube.com/watch?v=qUfT-4bNtwY&index=5&list=PLlyOkSAh6TwcvJQ1UtvkSwhZWCaM_S07d)
 &ensp; [source2](https://www.youtube.com/watch?v=mENDYhfxH-o)
 &ensp; [source3](https://github.com/geeeeeeeeek/git-recipes/tree/8268e297f6efbf680c2b4104675c4b49dad29971)
