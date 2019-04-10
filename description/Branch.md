@@ -15,7 +15,7 @@ Branch
 *   Delete a branch <br>
 &ensp; &ensp; &ensp; delete a merged branch: `git branch -d "branch_name"` <br>
 &ensp; &ensp; &ensp; delete a unmerged branch: `git branch -D "branch_name"` <br>
-&ensp; &ensp; &ensp; delete a remote branch: `git push origin :"branch_name"` <br>
+&ensp; &ensp; &ensp; delete a remote branch: `git push --delete origin "branch_name"` <br>
 :warning:	Branch is just like a pointer to record the position of node. <br>
 :warning:	`master` is the local latest branch and `origin` is the remote latest branch. <br>
    
